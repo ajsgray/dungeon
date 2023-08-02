@@ -1,0 +1,7 @@
+A00 // Id
+12 // WidthTiles
+24 // HeightTiles
+1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 // Collision data
+34, 34, 34, 34, 28, 12, 12, 12, 21 // Tile data
+Doors
+Id, X, Y, TargetDoorId, TargetRoomId, Facing, IsLocked
